@@ -1,0 +1,27 @@
+body {
+  background-color: #C0C0C0;
+}
+h1 {
+  color: #2F4F4F;
+  font-size: 25pt;
+  font-family: arial;
+
+}
+
+h2 {
+  color: #5F9EA0 ;
+  font-size: 18pt;
+  font-family: arial;
+}
+p {
+  color: 	#404040;
+  font-size: 16pt;
+  font-family: arial;
+
+}
+hr{
+  border-color: grey;
+  border-width: 10px;
+  border-style: dotted none none;
+  width: 97%
+}
